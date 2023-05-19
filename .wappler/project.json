@@ -23,5 +23,8 @@
   "hostingType": "wappler",
   "projectServerModel": "node",
   "runtime": "capacitor",
-  "projectType": "app"
+  "projectType": "app",
+  "capacitor": {
+    "platform": "web"
+  }
 }
