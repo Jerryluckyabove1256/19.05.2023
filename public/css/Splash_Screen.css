@@ -1,0 +1,83 @@
+dmx-serverconnect {
+display: none
+}
+
+html {
+height:100%;
+}
+
+body {
+height:100%;
+}
+
+#Splash_Screen_div {
+height:100%;
+}
+
+w-include {
+height:0px !important;
+}
+
+._1_8 {
+display:flex;
+justify-content:center;
+align-items:center;
+flex-direction:column;
+height:100%;
+background-color:rgba(255.0, 255.0, 255.0, 1.0);
+border-radius:50.0px;
+}
+
+._1_29 {
+flex-direction:row;
+display:flex;
+gap:10.0px;
+justify-content:center;
+align-items:center;
+min-height:15.0px;
+height:15.0px;
+min-width:292.0px;
+width:292.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+._1_31 {
+display:flex;
+justify-content:center;
+align-items:center;
+flex-direction:column;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+._1_32 {
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+box-shadow:0.0px -1.0px 20.0px rgba(0.0, 0.0, 0.0, 0.25);
+}
+
+._1_33 {
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+._1_34 {
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+._1_35 {
+display:flex;
+height:-webkit-fill-available;
+align-items:center;
+justify-content:center;
+}
+
+._1_41 {
+display:flex;
+justify-content:center;
+align-items:center;
+flex-direction:column;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+._1_40 {
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
